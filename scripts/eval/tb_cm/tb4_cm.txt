@@ -1,0 +1,28 @@
+# Terminal-Bench 4.0 (terminal-bench/terminal-bench@4.0.0), "CM" subset: the 18 tasks in the
+# computing-and-math domain that the paper evaluates (Table 3; task list in the Appendix). One task name per
+# line; '#' starts a comment; a trailing '# gpu' marks a task that needs a GPU inside the sandbox (skipped by
+# eval_tb4_cm.sh unless INCLUDE_GPU_TASKS=1).
+mp-checkpoint-consolidation
+shadow-relay
+ctr-optimization
+mvcc-lsm-compaction
+wal-recovery-ordering
+session-window-debug
+batched-eval-parity
+risk-scorer-replay
+cargo-flight-dispatch
+freight-dispatch-shift
+production-planning
+data-anonymization
+distributed-dedup
+telecom-entity-resolution
+uefi-bootkit
+payments-pipeline-fix
+pretrain-shard-corruption
+live-database-cutover
+
+# Also in the computing_math domain, but NOT in the paper's subset: our CPU-only Docker harness
+# cannot run and grade them. Uncomment to include (math-eval-grader also needs INCLUDE_GPU_TASKS=1
+# and a Harbor environment, HARBOR_ENV, that can give the sandbox a GPU).
+# vpp-loss-divergence
+# math-eval-grader  # gpu

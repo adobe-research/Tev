@@ -1,0 +1,4529 @@
+[
+  {
+    "country": "Germany",
+    "email": "buyer1001@shop.example",
+    "id": 1001,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1001",
+    "registration_date": "2023-11-03",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1002@shop.example",
+    "id": 1002,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1002",
+    "registration_date": "2024-07-14",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1003@shop.example",
+    "id": 1003,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1003",
+    "registration_date": "2021-08-18",
+    "segment": "Basic"
+  },
+  {
+    "country": "us",
+    "email": "buyer1004@shop.example",
+    "id": 1004,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1004",
+    "registration_date": "2022-11-26",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1005@shop.example",
+    "id": 1005,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1005",
+    "registration_date": "2022-07-08",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1006@shop.example",
+    "id": 1006,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1006",
+    "registration_date": "2021-04-14",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1007@shop.example",
+    "id": 1007,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1007",
+    "registration_date": "2021-01-06",
+    "segment": "standard"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1008@shop.example",
+    "id": 1008,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1008",
+    "registration_date": "2021-01-07",
+    "segment": " BASIC "
+  },
+  {
+    "country": "UK",
+    "email": "buyer1009@shop.example",
+    "id": 1009,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1009",
+    "registration_date": "2021-05-18",
+    "segment": "Basic"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1010@shop.example",
+    "id": 1010,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1010",
+    "registration_date": "2024-01-08",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1011@shop.example",
+    "id": 1011,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1011",
+    "registration_date": "2021-06-20",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "us",
+    "email": "buyer1012@shop.example",
+    "id": 1012,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1012",
+    "registration_date": "2023-10-13",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1013@shop.example",
+    "id": 1013,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1013",
+    "registration_date": "2024-05-24",
+    "segment": "basic"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1014@shop.example",
+    "id": 1014,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1014",
+    "registration_date": "2024-06-23",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1015@shop.example",
+    "id": 1015,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1015",
+    "registration_date": "2023-06-07",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1016@shop.example",
+    "id": 1016,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1016",
+    "registration_date": "2023-05-15",
+    "segment": "standard"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1017@shop.example",
+    "id": 1017,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1017",
+    "registration_date": "2021-05-13",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1018@shop.example",
+    "id": 1018,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1018",
+    "registration_date": "2022-10-19",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1019@shop.example",
+    "id": 1019,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1019",
+    "registration_date": "2021-05-05",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1020@shop.example",
+    "id": 1020,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1020",
+    "registration_date": "2024-05-27",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1021@shop.example",
+    "id": 1021,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1021",
+    "registration_date": "2022-08-27",
+    "segment": "Premium"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1022@shop.example",
+    "id": 1022,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1022",
+    "registration_date": "2023-05-11",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1023@shop.example",
+    "id": 1023,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1023",
+    "registration_date": "2021-03-12",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1024@shop.example",
+    "id": 1024,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1024",
+    "registration_date": "2021-11-10",
+    "segment": "Standard"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1025@shop.example",
+    "id": 1025,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1025",
+    "registration_date": "2022-12-20",
+    "segment": "premium"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1026@shop.example",
+    "id": 1026,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1026",
+    "registration_date": "2023-12-05",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1027@shop.example",
+    "id": 1027,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1027",
+    "registration_date": "2023-06-09",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1028@shop.example",
+    "id": 1028,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1028",
+    "registration_date": "2024-09-18",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1029@shop.example",
+    "id": 1029,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1029",
+    "registration_date": "2024-07-04",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1030@shop.example",
+    "id": 1030,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1030",
+    "registration_date": "2023-03-27",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1031@shop.example",
+    "id": 1031,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1031",
+    "registration_date": "2024-06-14",
+    "segment": "premium"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1032@shop.example",
+    "id": 1032,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1032",
+    "registration_date": "2023-06-11",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1033@shop.example",
+    "id": 1033,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1033",
+    "registration_date": "2023-08-26",
+    "segment": "Standard"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1034@shop.example",
+    "id": 1034,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1034",
+    "registration_date": "2021-05-25",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1035@shop.example",
+    "id": 1035,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1035",
+    "registration_date": "2021-03-10",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1036@shop.example",
+    "id": 1036,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1036",
+    "registration_date": "2023-02-28",
+    "segment": "Standard"
+  },
+  {
+    "country": "can",
+    "email": "buyer1037@shop.example",
+    "id": 1037,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1037",
+    "registration_date": "2023-01-19",
+    "segment": "standard"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1038@shop.example",
+    "id": 1038,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1038",
+    "registration_date": "2021-11-07",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1039@shop.example",
+    "id": 1039,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1039",
+    "registration_date": "2024-03-22",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1040@shop.example",
+    "id": 1040,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1040",
+    "registration_date": "2021-07-26",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1041@shop.example",
+    "id": 1041,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1041",
+    "registration_date": "2024-01-03",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1042@shop.example",
+    "id": 1042,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1042",
+    "registration_date": "2022-07-19",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1043@shop.example",
+    "id": 1043,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1043",
+    "registration_date": "2021-09-02",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1044@shop.example",
+    "id": 1044,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1044",
+    "registration_date": "2023-03-04",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1045@shop.example",
+    "id": 1045,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1045",
+    "registration_date": "2021-02-06",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1046@shop.example",
+    "id": 1046,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1046",
+    "registration_date": "2024-07-10",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1047@shop.example",
+    "id": 1047,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1047",
+    "registration_date": "2023-07-30",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1048@shop.example",
+    "id": 1048,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1048",
+    "registration_date": "2021-03-16",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1049@shop.example",
+    "id": 1049,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1049",
+    "registration_date": "2024-04-21",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1050@shop.example",
+    "id": 1050,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1050",
+    "registration_date": "2021-01-17",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1051@shop.example",
+    "id": 1051,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1051",
+    "registration_date": "2024-10-17",
+    "segment": "Premium"
+  },
+  {
+    "country": "us",
+    "email": "buyer1052@shop.example",
+    "id": 1052,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1052",
+    "registration_date": "2023-03-28",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1053@shop.example",
+    "id": 1053,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1053",
+    "registration_date": "2021-01-29",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1054@shop.example",
+    "id": 1054,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1054",
+    "registration_date": "2021-06-03",
+    "segment": "Premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1055@shop.example",
+    "id": 1055,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1055",
+    "registration_date": "2021-12-22",
+    "segment": "basic"
+  },
+  {
+    "country": "us",
+    "email": "buyer1056@shop.example",
+    "id": 1056,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1056",
+    "registration_date": "2021-04-25",
+    "segment": " BASIC "
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1057@shop.example",
+    "id": 1057,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1057",
+    "registration_date": "2021-06-02",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1058@shop.example",
+    "id": 1058,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1058",
+    "registration_date": "2023-07-12",
+    "segment": "premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1059@shop.example",
+    "id": 1059,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1059",
+    "registration_date": "2021-07-10",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1060@shop.example",
+    "id": 1060,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1060",
+    "registration_date": "2021-06-05",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1061@shop.example",
+    "id": 1061,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1061",
+    "registration_date": "2022-10-07",
+    "segment": "basic"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1062@shop.example",
+    "id": 1062,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1062",
+    "registration_date": "2023-10-29",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1063@shop.example",
+    "id": 1063,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1063",
+    "registration_date": "2021-11-16",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1064@shop.example",
+    "id": 1064,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1064",
+    "registration_date": "2022-03-18",
+    "segment": "standard"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1065@shop.example",
+    "id": 1065,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1065",
+    "registration_date": "2023-04-30",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1066@shop.example",
+    "id": 1066,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1066",
+    "registration_date": "2021-10-21",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1067@shop.example",
+    "id": 1067,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1067",
+    "registration_date": "2024-01-13",
+    "segment": "standard"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1068@shop.example",
+    "id": 1068,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1068",
+    "registration_date": "2021-10-22",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1069@shop.example",
+    "id": 1069,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1069",
+    "registration_date": "2022-06-03",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1070@shop.example",
+    "id": 1070,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1070",
+    "registration_date": "2023-04-18",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1071@shop.example",
+    "id": 1071,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1071",
+    "registration_date": "2021-08-07",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1072@shop.example",
+    "id": 1072,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1072",
+    "registration_date": "2023-12-22",
+    "segment": "Standard"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1073@shop.example",
+    "id": 1073,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1073",
+    "registration_date": "2024-03-27",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1074@shop.example",
+    "id": 1074,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1074",
+    "registration_date": "2021-09-01",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1075@shop.example",
+    "id": 1075,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1075",
+    "registration_date": "2023-05-28",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1076@shop.example",
+    "id": 1076,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1076",
+    "registration_date": "2023-05-08",
+    "segment": "premium"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1077@shop.example",
+    "id": 1077,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1077",
+    "registration_date": "2021-04-20",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1078@shop.example",
+    "id": 1078,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1078",
+    "registration_date": "2021-12-15",
+    "segment": "Standard"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1079@shop.example",
+    "id": 1079,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1079",
+    "registration_date": "2022-10-16",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1080@shop.example",
+    "id": 1080,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1080",
+    "registration_date": "2023-06-25",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1081@shop.example",
+    "id": 1081,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1081",
+    "registration_date": "2022-06-03",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1082@shop.example",
+    "id": 1082,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1082",
+    "registration_date": "2023-09-21",
+    "segment": "premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1083@shop.example",
+    "id": 1083,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1083",
+    "registration_date": "2021-07-06",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "us",
+    "email": "buyer1084@shop.example",
+    "id": 1084,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1084",
+    "registration_date": "2023-03-11",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1085@shop.example",
+    "id": 1085,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1085",
+    "registration_date": "2024-03-07",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1086@shop.example",
+    "id": 1086,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1086",
+    "registration_date": "2023-03-09",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1087@shop.example",
+    "id": 1087,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1087",
+    "registration_date": "2023-10-22",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1088@shop.example",
+    "id": 1088,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1088",
+    "registration_date": "2021-03-05",
+    "segment": "premium"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1089@shop.example",
+    "id": 1089,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1089",
+    "registration_date": "2024-04-19",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1090@shop.example",
+    "id": 1090,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1090",
+    "registration_date": "2021-03-03",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1091@shop.example",
+    "id": 1091,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1091",
+    "registration_date": "2023-09-30",
+    "segment": "standard"
+  },
+  {
+    "country": "us",
+    "email": "buyer1092@shop.example",
+    "id": 1092,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1092",
+    "registration_date": "2024-07-21",
+    "segment": " BASIC "
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1093@shop.example",
+    "id": 1093,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1093",
+    "registration_date": "2021-07-19",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1094@shop.example",
+    "id": 1094,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1094",
+    "registration_date": "2021-10-22",
+    "segment": "standard"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1095@shop.example",
+    "id": 1095,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1095",
+    "registration_date": "2021-11-14",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1096@shop.example",
+    "id": 1096,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1096",
+    "registration_date": "2022-03-10",
+    "segment": "Standard"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1097@shop.example",
+    "id": 1097,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1097",
+    "registration_date": "2023-10-12",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1098@shop.example",
+    "id": 1098,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1098",
+    "registration_date": "2022-08-04",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1099@shop.example",
+    "id": 1099,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1099",
+    "registration_date": "2021-04-13",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1100@shop.example",
+    "id": 1100,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1100",
+    "registration_date": "2022-02-12",
+    "segment": "standard"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1101@shop.example",
+    "id": 1101,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1101",
+    "registration_date": "2021-09-07",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1102@shop.example",
+    "id": 1102,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1102",
+    "registration_date": "2022-06-03",
+    "segment": "Basic"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1103@shop.example",
+    "id": 1103,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1103",
+    "registration_date": "2024-07-22",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1104@shop.example",
+    "id": 1104,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1104",
+    "registration_date": "2021-02-28",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1105@shop.example",
+    "id": 1105,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1105",
+    "registration_date": "2021-11-11",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1106@shop.example",
+    "id": 1106,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1106",
+    "registration_date": "2022-03-03",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1107@shop.example",
+    "id": 1107,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1107",
+    "registration_date": "2024-04-25",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1108@shop.example",
+    "id": 1108,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1108",
+    "registration_date": "2021-11-18",
+    "segment": "Premium"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1109@shop.example",
+    "id": 1109,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1109",
+    "registration_date": "2023-09-21",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1110@shop.example",
+    "id": 1110,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1110",
+    "registration_date": "2021-06-30",
+    "segment": " BASIC "
+  },
+  {
+    "country": "United States",
+    "email": "buyer1111@shop.example",
+    "id": 1111,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1111",
+    "registration_date": "2024-07-04",
+    "segment": "Standard"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1112@shop.example",
+    "id": 1112,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1112",
+    "registration_date": "2022-04-01",
+    "segment": "standard"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1113@shop.example",
+    "id": 1113,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1113",
+    "registration_date": "2023-09-09",
+    "segment": " BASIC "
+  },
+  {
+    "country": "USA",
+    "email": "buyer1114@shop.example",
+    "id": 1114,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1114",
+    "registration_date": "2024-03-21",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1115@shop.example",
+    "id": 1115,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1115",
+    "registration_date": "2023-02-18",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1116@shop.example",
+    "id": 1116,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1116",
+    "registration_date": "2023-11-20",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1117@shop.example",
+    "id": 1117,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1117",
+    "registration_date": "2022-09-01",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1118@shop.example",
+    "id": 1118,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1118",
+    "registration_date": "2024-08-14",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1119@shop.example",
+    "id": 1119,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1119",
+    "registration_date": "2021-01-15",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1120@shop.example",
+    "id": 1120,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1120",
+    "registration_date": "2023-11-01",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1121@shop.example",
+    "id": 1121,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1121",
+    "registration_date": "2023-10-10",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1122@shop.example",
+    "id": 1122,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1122",
+    "registration_date": "2022-05-09",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1123@shop.example",
+    "id": 1123,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1123",
+    "registration_date": "2024-06-05",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1124@shop.example",
+    "id": 1124,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1124",
+    "registration_date": "2024-05-04",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1125@shop.example",
+    "id": 1125,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1125",
+    "registration_date": "2022-05-08",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1126@shop.example",
+    "id": 1126,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1126",
+    "registration_date": "2021-12-13",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1127@shop.example",
+    "id": 1127,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1127",
+    "registration_date": "2022-07-22",
+    "segment": "premium"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1128@shop.example",
+    "id": 1128,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1128",
+    "registration_date": "2024-07-28",
+    "segment": " BASIC "
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1129@shop.example",
+    "id": 1129,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1129",
+    "registration_date": "2023-07-03",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1130@shop.example",
+    "id": 1130,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1130",
+    "registration_date": "2023-01-25",
+    "segment": "premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1131@shop.example",
+    "id": 1131,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1131",
+    "registration_date": "2023-04-05",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1132@shop.example",
+    "id": 1132,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1132",
+    "registration_date": "2023-07-06",
+    "segment": "Basic"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1133@shop.example",
+    "id": 1133,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1133",
+    "registration_date": "2024-01-13",
+    "segment": "premium"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1134@shop.example",
+    "id": 1134,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1134",
+    "registration_date": "2021-11-09",
+    "segment": " BASIC "
+  },
+  {
+    "country": "United States",
+    "email": "buyer1135@shop.example",
+    "id": 1135,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1135",
+    "registration_date": "2021-07-11",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1136@shop.example",
+    "id": 1136,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1136",
+    "registration_date": "2021-02-27",
+    "segment": "basic"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1137@shop.example",
+    "id": 1137,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1137",
+    "registration_date": "2022-12-20",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1138@shop.example",
+    "id": 1138,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1138",
+    "registration_date": "2021-12-10",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1139@shop.example",
+    "id": 1139,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1139",
+    "registration_date": "2024-04-02",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1140@shop.example",
+    "id": 1140,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1140",
+    "registration_date": "2022-02-05",
+    "segment": " BASIC "
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1141@shop.example",
+    "id": 1141,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1141",
+    "registration_date": "2024-05-04",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1142@shop.example",
+    "id": 1142,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1142",
+    "registration_date": "2024-03-24",
+    "segment": "premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1143@shop.example",
+    "id": 1143,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1143",
+    "registration_date": "2021-10-04",
+    "segment": " BASIC "
+  },
+  {
+    "country": "us",
+    "email": "buyer1144@shop.example",
+    "id": 1144,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1144",
+    "registration_date": "2023-07-15",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1145@shop.example",
+    "id": 1145,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1145",
+    "registration_date": "2022-08-22",
+    "segment": "standard"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1146@shop.example",
+    "id": 1146,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1146",
+    "registration_date": "2023-08-31",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1147@shop.example",
+    "id": 1147,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1147",
+    "registration_date": "2023-06-20",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1148@shop.example",
+    "id": 1148,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1148",
+    "registration_date": "2024-10-14",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1149@shop.example",
+    "id": 1149,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1149",
+    "registration_date": "2021-01-26",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1150@shop.example",
+    "id": 1150,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1150",
+    "registration_date": "2023-10-14",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1151@shop.example",
+    "id": 1151,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1151",
+    "registration_date": "2023-09-04",
+    "segment": "standard"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1152@shop.example",
+    "id": 1152,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1152",
+    "registration_date": "2021-03-04",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1153@shop.example",
+    "id": 1153,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1153",
+    "registration_date": "2024-10-28",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1154@shop.example",
+    "id": 1154,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1154",
+    "registration_date": "2022-01-28",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1155@shop.example",
+    "id": 1155,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1155",
+    "registration_date": "2023-03-14",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1156@shop.example",
+    "id": 1156,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1156",
+    "registration_date": "2022-01-16",
+    "segment": "Standard"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1157@shop.example",
+    "id": 1157,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1157",
+    "registration_date": "2024-03-31",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1158@shop.example",
+    "id": 1158,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1158",
+    "registration_date": "2023-05-05",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1159@shop.example",
+    "id": 1159,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1159",
+    "registration_date": "2024-07-02",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1160@shop.example",
+    "id": 1160,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1160",
+    "registration_date": "2022-12-11",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1161@shop.example",
+    "id": 1161,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1161",
+    "registration_date": "2024-01-19",
+    "segment": " BASIC "
+  },
+  {
+    "country": "USA",
+    "email": "buyer1162@shop.example",
+    "id": 1162,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1162",
+    "registration_date": "2023-09-17",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1163@shop.example",
+    "id": 1163,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1163",
+    "registration_date": "2022-03-12",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1164@shop.example",
+    "id": 1164,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1164",
+    "registration_date": "2024-02-25",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1165@shop.example",
+    "id": 1165,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1165",
+    "registration_date": "2024-08-15",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1166@shop.example",
+    "id": 1166,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1166",
+    "registration_date": "2022-09-06",
+    "segment": "premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1167@shop.example",
+    "id": 1167,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1167",
+    "registration_date": "2022-04-27",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1168@shop.example",
+    "id": 1168,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1168",
+    "registration_date": "2023-06-11",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1169@shop.example",
+    "id": 1169,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1169",
+    "registration_date": "2021-05-24",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1170@shop.example",
+    "id": 1170,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1170",
+    "registration_date": "2024-10-15",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1171@shop.example",
+    "id": 1171,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1171",
+    "registration_date": "2022-05-16",
+    "segment": "Standard"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1172@shop.example",
+    "id": 1172,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1172",
+    "registration_date": "2024-05-19",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1173@shop.example",
+    "id": 1173,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1173",
+    "registration_date": "2021-02-14",
+    "segment": " BASIC "
+  },
+  {
+    "country": "UK",
+    "email": "buyer1174@shop.example",
+    "id": 1174,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1174",
+    "registration_date": "2021-11-29",
+    "segment": "Premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1175@shop.example",
+    "id": 1175,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1175",
+    "registration_date": "2022-06-26",
+    "segment": "standard"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1176@shop.example",
+    "id": 1176,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1176",
+    "registration_date": "2022-04-19",
+    "segment": " BASIC "
+  },
+  {
+    "country": "UK",
+    "email": "buyer1177@shop.example",
+    "id": 1177,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1177",
+    "registration_date": "2024-09-01",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1178@shop.example",
+    "id": 1178,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1178",
+    "registration_date": "2024-08-25",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1179@shop.example",
+    "id": 1179,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1179",
+    "registration_date": "2023-06-15",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1180@shop.example",
+    "id": 1180,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1180",
+    "registration_date": "2023-04-11",
+    "segment": "Standard"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1181@shop.example",
+    "id": 1181,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1181",
+    "registration_date": "2024-08-06",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1182@shop.example",
+    "id": 1182,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1182",
+    "registration_date": "2024-08-25",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1183@shop.example",
+    "id": 1183,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1183",
+    "registration_date": "2023-01-23",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1184@shop.example",
+    "id": 1184,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1184",
+    "registration_date": "2021-02-11",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1185@shop.example",
+    "id": 1185,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1185",
+    "registration_date": "2023-08-31",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1186@shop.example",
+    "id": 1186,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1186",
+    "registration_date": "2023-07-22",
+    "segment": "Standard"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1187@shop.example",
+    "id": 1187,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1187",
+    "registration_date": "2022-07-22",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1188@shop.example",
+    "id": 1188,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1188",
+    "registration_date": "2021-09-25",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1189@shop.example",
+    "id": 1189,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1189",
+    "registration_date": "2021-06-06",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1190@shop.example",
+    "id": 1190,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1190",
+    "registration_date": "2022-06-07",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1191@shop.example",
+    "id": 1191,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1191",
+    "registration_date": "2022-09-25",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1192@shop.example",
+    "id": 1192,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1192",
+    "registration_date": "2021-10-06",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1193@shop.example",
+    "id": 1193,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1193",
+    "registration_date": "2024-01-14",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1194@shop.example",
+    "id": 1194,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1194",
+    "registration_date": "2023-12-31",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1195@shop.example",
+    "id": 1195,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1195",
+    "registration_date": "2022-05-20",
+    "segment": "Premium"
+  },
+  {
+    "country": "us",
+    "email": "buyer1196@shop.example",
+    "id": 1196,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1196",
+    "registration_date": "2024-09-09",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1197@shop.example",
+    "id": 1197,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1197",
+    "registration_date": "2021-06-14",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1198@shop.example",
+    "id": 1198,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1198",
+    "registration_date": "2021-11-01",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1199@shop.example",
+    "id": 1199,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1199",
+    "registration_date": "2022-03-13",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1200@shop.example",
+    "id": 1200,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1200",
+    "registration_date": "2021-01-04",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1201@shop.example",
+    "id": 1201,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1201",
+    "registration_date": "2022-04-20",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1202@shop.example",
+    "id": 1202,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1202",
+    "registration_date": "2023-10-27",
+    "segment": "standard"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1203@shop.example",
+    "id": 1203,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1203",
+    "registration_date": "2022-04-01",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1204@shop.example",
+    "id": 1204,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1204",
+    "registration_date": "2021-09-07",
+    "segment": "Standard"
+  },
+  {
+    "country": "can",
+    "email": "buyer1205@shop.example",
+    "id": 1205,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1205",
+    "registration_date": "2022-03-22",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1206@shop.example",
+    "id": 1206,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1206",
+    "registration_date": "2021-04-30",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1207@shop.example",
+    "id": 1207,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1207",
+    "registration_date": "2021-06-02",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1208@shop.example",
+    "id": 1208,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1208",
+    "registration_date": "2021-08-30",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1209@shop.example",
+    "id": 1209,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1209",
+    "registration_date": "2021-10-25",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1210@shop.example",
+    "id": 1210,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1210",
+    "registration_date": "2024-02-23",
+    "segment": "Premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1211@shop.example",
+    "id": 1211,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1211",
+    "registration_date": "2022-03-19",
+    "segment": "premium"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1212@shop.example",
+    "id": 1212,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1212",
+    "registration_date": "2022-10-27",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1213@shop.example",
+    "id": 1213,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1213",
+    "registration_date": "2024-03-11",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1214@shop.example",
+    "id": 1214,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1214",
+    "registration_date": "2022-06-03",
+    "segment": "basic"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1215@shop.example",
+    "id": 1215,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1215",
+    "registration_date": "2023-06-03",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "us",
+    "email": "buyer1216@shop.example",
+    "id": 1216,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1216",
+    "registration_date": "2022-11-04",
+    "segment": "Basic"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1217@shop.example",
+    "id": 1217,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1217",
+    "registration_date": "2021-03-25",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1218@shop.example",
+    "id": 1218,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1218",
+    "registration_date": "2021-03-23",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1219@shop.example",
+    "id": 1219,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1219",
+    "registration_date": "2022-08-18",
+    "segment": "Standard"
+  },
+  {
+    "country": "can",
+    "email": "buyer1220@shop.example",
+    "id": 1220,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1220",
+    "registration_date": "2024-03-21",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1221@shop.example",
+    "id": 1221,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1221",
+    "registration_date": "2023-09-09",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1222@shop.example",
+    "id": 1222,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1222",
+    "registration_date": "2024-09-11",
+    "segment": "Standard"
+  },
+  {
+    "country": "can",
+    "email": "buyer1223@shop.example",
+    "id": 1223,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1223",
+    "registration_date": "2024-09-06",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1224@shop.example",
+    "id": 1224,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1224",
+    "registration_date": "2024-07-08",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1225@shop.example",
+    "id": 1225,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1225",
+    "registration_date": "2021-08-14",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1226@shop.example",
+    "id": 1226,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1226",
+    "registration_date": "2024-04-25",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1227@shop.example",
+    "id": 1227,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1227",
+    "registration_date": "2021-06-27",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1228@shop.example",
+    "id": 1228,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1228",
+    "registration_date": "2023-12-21",
+    "segment": "Basic"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1229@shop.example",
+    "id": 1229,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1229",
+    "registration_date": "2022-10-27",
+    "segment": "basic"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1230@shop.example",
+    "id": 1230,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1230",
+    "registration_date": "2024-04-24",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1231@shop.example",
+    "id": 1231,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1231",
+    "registration_date": "2021-08-27",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1232@shop.example",
+    "id": 1232,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1232",
+    "registration_date": "2023-11-30",
+    "segment": "standard"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1233@shop.example",
+    "id": 1233,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1233",
+    "registration_date": "2022-08-17",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1234@shop.example",
+    "id": 1234,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1234",
+    "registration_date": "2023-09-21",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1235@shop.example",
+    "id": 1235,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1235",
+    "registration_date": "2021-04-09",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1236@shop.example",
+    "id": 1236,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1236",
+    "registration_date": "2023-06-17",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1237@shop.example",
+    "id": 1237,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1237",
+    "registration_date": "2022-11-09",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1238@shop.example",
+    "id": 1238,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1238",
+    "registration_date": "2021-03-25",
+    "segment": "standard"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1239@shop.example",
+    "id": 1239,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1239",
+    "registration_date": "2022-11-26",
+    "segment": " BASIC "
+  },
+  {
+    "country": "us",
+    "email": "buyer1240@shop.example",
+    "id": 1240,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1240",
+    "registration_date": "2021-04-04",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1241@shop.example",
+    "id": 1241,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1241",
+    "registration_date": "2021-06-04",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1242@shop.example",
+    "id": 1242,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1242",
+    "registration_date": "2021-02-10",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1243@shop.example",
+    "id": 1243,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1243",
+    "registration_date": "2023-10-09",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1244@shop.example",
+    "id": 1244,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1244",
+    "registration_date": "2024-10-12",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1245@shop.example",
+    "id": 1245,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1245",
+    "registration_date": "2021-09-18",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1246@shop.example",
+    "id": 1246,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1246",
+    "registration_date": "2022-02-01",
+    "segment": "Standard"
+  },
+  {
+    "country": "can",
+    "email": "buyer1247@shop.example",
+    "id": 1247,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1247",
+    "registration_date": "2024-09-06",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1248@shop.example",
+    "id": 1248,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1248",
+    "registration_date": "2023-04-14",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1249@shop.example",
+    "id": 1249,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1249",
+    "registration_date": "2022-04-10",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1250@shop.example",
+    "id": 1250,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1250",
+    "registration_date": "2022-08-29",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1251@shop.example",
+    "id": 1251,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1251",
+    "registration_date": "2023-07-02",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1252@shop.example",
+    "id": 1252,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1252",
+    "registration_date": "2021-08-29",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1253@shop.example",
+    "id": 1253,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1253",
+    "registration_date": "2022-01-10",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1254@shop.example",
+    "id": 1254,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1254",
+    "registration_date": "2022-04-30",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1255@shop.example",
+    "id": 1255,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1255",
+    "registration_date": "2022-10-12",
+    "segment": "Premium"
+  },
+  {
+    "country": "us",
+    "email": "buyer1256@shop.example",
+    "id": 1256,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1256",
+    "registration_date": "2024-08-08",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1257@shop.example",
+    "id": 1257,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1257",
+    "registration_date": "2021-07-06",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1258@shop.example",
+    "id": 1258,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1258",
+    "registration_date": "2021-02-23",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1259@shop.example",
+    "id": 1259,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1259",
+    "registration_date": "2023-09-14",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1260@shop.example",
+    "id": 1260,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1260",
+    "registration_date": "2024-03-31",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1261@shop.example",
+    "id": 1261,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1261",
+    "registration_date": "2024-07-27",
+    "segment": "Basic"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1262@shop.example",
+    "id": 1262,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1262",
+    "registration_date": "2021-06-29",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1263@shop.example",
+    "id": 1263,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1263",
+    "registration_date": "2021-07-28",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1264@shop.example",
+    "id": 1264,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1264",
+    "registration_date": "2021-04-17",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1265@shop.example",
+    "id": 1265,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1265",
+    "registration_date": "2021-12-05",
+    "segment": "basic"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1266@shop.example",
+    "id": 1266,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1266",
+    "registration_date": "2022-05-09",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1267@shop.example",
+    "id": 1267,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1267",
+    "registration_date": "2023-10-22",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1268@shop.example",
+    "id": 1268,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1268",
+    "registration_date": "2022-09-28",
+    "segment": "premium"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1269@shop.example",
+    "id": 1269,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1269",
+    "registration_date": "2024-05-30",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1270@shop.example",
+    "id": 1270,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1270",
+    "registration_date": "2023-08-08",
+    "segment": "Standard"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1271@shop.example",
+    "id": 1271,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1271",
+    "registration_date": "2024-10-25",
+    "segment": "basic"
+  },
+  {
+    "country": "us",
+    "email": "buyer1272@shop.example",
+    "id": 1272,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1272",
+    "registration_date": "2024-05-08",
+    "segment": " BASIC "
+  },
+  {
+    "country": "UK",
+    "email": "buyer1273@shop.example",
+    "id": 1273,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1273",
+    "registration_date": "2022-08-20",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1274@shop.example",
+    "id": 1274,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1274",
+    "registration_date": "2022-01-25",
+    "segment": "standard"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1275@shop.example",
+    "id": 1275,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1275",
+    "registration_date": "2022-07-17",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1276@shop.example",
+    "id": 1276,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1276",
+    "registration_date": "2023-05-27",
+    "segment": "Premium"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1277@shop.example",
+    "id": 1277,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1277",
+    "registration_date": "2024-06-19",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1278@shop.example",
+    "id": 1278,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1278",
+    "registration_date": "2024-10-23",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1279@shop.example",
+    "id": 1279,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1279",
+    "registration_date": "2021-12-02",
+    "segment": "Standard"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1280@shop.example",
+    "id": 1280,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1280",
+    "registration_date": "2023-03-01",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1281@shop.example",
+    "id": 1281,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1281",
+    "registration_date": "2022-10-28",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1282@shop.example",
+    "id": 1282,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1282",
+    "registration_date": "2022-01-15",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1283@shop.example",
+    "id": 1283,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1283",
+    "registration_date": "2023-04-13",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1284@shop.example",
+    "id": 1284,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1284",
+    "registration_date": "2024-05-31",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1285@shop.example",
+    "id": 1285,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1285",
+    "registration_date": "2021-09-12",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1286@shop.example",
+    "id": 1286,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1286",
+    "registration_date": "2024-01-17",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1287@shop.example",
+    "id": 1287,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1287",
+    "registration_date": "2024-07-29",
+    "segment": " BASIC "
+  },
+  {
+    "country": "us",
+    "email": "buyer1288@shop.example",
+    "id": 1288,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1288",
+    "registration_date": "2023-02-22",
+    "segment": "Premium"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1289@shop.example",
+    "id": 1289,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1289",
+    "registration_date": "2023-12-04",
+    "segment": "standard"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1290@shop.example",
+    "id": 1290,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1290",
+    "registration_date": "2021-10-16",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1291@shop.example",
+    "id": 1291,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1291",
+    "registration_date": "2022-06-26",
+    "segment": "Premium"
+  },
+  {
+    "country": "us",
+    "email": "buyer1292@shop.example",
+    "id": 1292,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1292",
+    "registration_date": "2021-06-15",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1293@shop.example",
+    "id": 1293,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1293",
+    "registration_date": "2022-08-31",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1294@shop.example",
+    "id": 1294,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1294",
+    "registration_date": "2023-12-19",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1295@shop.example",
+    "id": 1295,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1295",
+    "registration_date": "2024-10-31",
+    "segment": "basic"
+  },
+  {
+    "country": "us",
+    "email": "buyer1296@shop.example",
+    "id": 1296,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1296",
+    "registration_date": "2024-02-22",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1297@shop.example",
+    "id": 1297,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1297",
+    "registration_date": "2022-10-05",
+    "segment": "Premium"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1298@shop.example",
+    "id": 1298,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1298",
+    "registration_date": "2023-01-01",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1299@shop.example",
+    "id": 1299,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1299",
+    "registration_date": "2024-01-05",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1300@shop.example",
+    "id": 1300,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1300",
+    "registration_date": "2021-08-02",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1301@shop.example",
+    "id": 1301,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1301",
+    "registration_date": "2022-07-02",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1302@shop.example",
+    "id": 1302,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1302",
+    "registration_date": "2022-10-29",
+    "segment": " BASIC "
+  },
+  {
+    "country": "United States",
+    "email": "buyer1303@shop.example",
+    "id": 1303,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1303",
+    "registration_date": "2022-10-07",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1304@shop.example",
+    "id": 1304,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1304",
+    "registration_date": "2022-04-17",
+    "segment": "basic"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1305@shop.example",
+    "id": 1305,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1305",
+    "registration_date": "2022-10-13",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1306@shop.example",
+    "id": 1306,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1306",
+    "registration_date": "2022-08-24",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1307@shop.example",
+    "id": 1307,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1307",
+    "registration_date": "2023-12-18",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1308@shop.example",
+    "id": 1308,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1308",
+    "registration_date": "2023-11-19",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1309@shop.example",
+    "id": 1309,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1309",
+    "registration_date": "2023-01-21",
+    "segment": "Standard"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1310@shop.example",
+    "id": 1310,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1310",
+    "registration_date": "2024-02-11",
+    "segment": "standard"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1311@shop.example",
+    "id": 1311,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1311",
+    "registration_date": "2023-11-02",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1312@shop.example",
+    "id": 1312,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1312",
+    "registration_date": "2022-02-26",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1313@shop.example",
+    "id": 1313,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1313",
+    "registration_date": "2022-03-09",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1314@shop.example",
+    "id": 1314,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1314",
+    "registration_date": "2022-06-27",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1315@shop.example",
+    "id": 1315,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1315",
+    "registration_date": "2021-04-18",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1316@shop.example",
+    "id": 1316,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1316",
+    "registration_date": "2021-03-07",
+    "segment": "premium"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1317@shop.example",
+    "id": 1317,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1317",
+    "registration_date": "2024-10-13",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1318@shop.example",
+    "id": 1318,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1318",
+    "registration_date": "2022-03-31",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1319@shop.example",
+    "id": 1319,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1319",
+    "registration_date": "2021-05-31",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1320@shop.example",
+    "id": 1320,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1320",
+    "registration_date": "2022-06-04",
+    "segment": " BASIC "
+  },
+  {
+    "country": "UK",
+    "email": "buyer1321@shop.example",
+    "id": 1321,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1321",
+    "registration_date": "2023-12-11",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1322@shop.example",
+    "id": 1322,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1322",
+    "registration_date": "2021-11-21",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1323@shop.example",
+    "id": 1323,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1323",
+    "registration_date": "2022-09-21",
+    "segment": " BASIC "
+  },
+  {
+    "country": "UK",
+    "email": "buyer1324@shop.example",
+    "id": 1324,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1324",
+    "registration_date": "2022-08-15",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1325@shop.example",
+    "id": 1325,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1325",
+    "registration_date": "2023-01-25",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1326@shop.example",
+    "id": 1326,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1326",
+    "registration_date": "2021-01-21",
+    "segment": " BASIC "
+  },
+  {
+    "country": "UK",
+    "email": "buyer1327@shop.example",
+    "id": 1327,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1327",
+    "registration_date": "2024-07-06",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1328@shop.example",
+    "id": 1328,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1328",
+    "registration_date": "2022-11-02",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1329@shop.example",
+    "id": 1329,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1329",
+    "registration_date": "2023-10-20",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1330@shop.example",
+    "id": 1330,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1330",
+    "registration_date": "2024-04-09",
+    "segment": "Standard"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1331@shop.example",
+    "id": 1331,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1331",
+    "registration_date": "2024-04-08",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1332@shop.example",
+    "id": 1332,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1332",
+    "registration_date": "2021-06-05",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1333@shop.example",
+    "id": 1333,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1333",
+    "registration_date": "2023-05-31",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1334@shop.example",
+    "id": 1334,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1334",
+    "registration_date": "2023-07-10",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1335@shop.example",
+    "id": 1335,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1335",
+    "registration_date": "2021-12-28",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1336@shop.example",
+    "id": 1336,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1336",
+    "registration_date": "2023-03-11",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1337@shop.example",
+    "id": 1337,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1337",
+    "registration_date": "2022-07-28",
+    "segment": "standard"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1338@shop.example",
+    "id": 1338,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1338",
+    "registration_date": "2022-10-21",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1339@shop.example",
+    "id": 1339,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1339",
+    "registration_date": "2023-12-31",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1340@shop.example",
+    "id": 1340,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1340",
+    "registration_date": "2021-12-23",
+    "segment": "standard"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1341@shop.example",
+    "id": 1341,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1341",
+    "registration_date": "2021-02-18",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1342@shop.example",
+    "id": 1342,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1342",
+    "registration_date": "2024-01-20",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1343@shop.example",
+    "id": 1343,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1343",
+    "registration_date": "2021-03-15",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1344@shop.example",
+    "id": 1344,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1344",
+    "registration_date": "2023-04-01",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1345@shop.example",
+    "id": 1345,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1345",
+    "registration_date": "2024-07-22",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1346@shop.example",
+    "id": 1346,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1346",
+    "registration_date": "2021-03-03",
+    "segment": "basic"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1347@shop.example",
+    "id": 1347,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1347",
+    "registration_date": "2021-10-25",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1348@shop.example",
+    "id": 1348,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1348",
+    "registration_date": "2022-10-17",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1349@shop.example",
+    "id": 1349,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1349",
+    "registration_date": "2021-10-17",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1350@shop.example",
+    "id": 1350,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1350",
+    "registration_date": "2023-07-06",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1351@shop.example",
+    "id": 1351,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1351",
+    "registration_date": "2023-08-09",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1352@shop.example",
+    "id": 1352,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1352",
+    "registration_date": "2021-07-01",
+    "segment": "standard"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1353@shop.example",
+    "id": 1353,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1353",
+    "registration_date": "2021-11-08",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1354@shop.example",
+    "id": 1354,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1354",
+    "registration_date": "2023-02-13",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1355@shop.example",
+    "id": 1355,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1355",
+    "registration_date": "2022-09-28",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1356@shop.example",
+    "id": 1356,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1356",
+    "registration_date": "2024-03-14",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1357@shop.example",
+    "id": 1357,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1357",
+    "registration_date": "2021-06-12",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1358@shop.example",
+    "id": 1358,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1358",
+    "registration_date": "2023-12-03",
+    "segment": "standard"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1359@shop.example",
+    "id": 1359,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1359",
+    "registration_date": "2023-02-08",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "us",
+    "email": "buyer1360@shop.example",
+    "id": 1360,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1360",
+    "registration_date": "2022-03-27",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1361@shop.example",
+    "id": 1361,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1361",
+    "registration_date": "2021-07-30",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1362@shop.example",
+    "id": 1362,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1362",
+    "registration_date": "2023-12-09",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1363@shop.example",
+    "id": 1363,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1363",
+    "registration_date": "2023-01-12",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1364@shop.example",
+    "id": 1364,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1364",
+    "registration_date": "2021-06-30",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1365@shop.example",
+    "id": 1365,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1365",
+    "registration_date": "2024-08-09",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1366@shop.example",
+    "id": 1366,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1366",
+    "registration_date": "2021-06-04",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1367@shop.example",
+    "id": 1367,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1367",
+    "registration_date": "2021-02-13",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1368@shop.example",
+    "id": 1368,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1368",
+    "registration_date": "2021-06-16",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1369@shop.example",
+    "id": 1369,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1369",
+    "registration_date": "2024-08-19",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1370@shop.example",
+    "id": 1370,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1370",
+    "registration_date": "2023-01-13",
+    "segment": "standard"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1371@shop.example",
+    "id": 1371,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1371",
+    "registration_date": "2021-02-14",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1372@shop.example",
+    "id": 1372,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1372",
+    "registration_date": "2024-03-20",
+    "segment": "Standard"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1373@shop.example",
+    "id": 1373,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1373",
+    "registration_date": "2024-10-18",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1374@shop.example",
+    "id": 1374,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1374",
+    "registration_date": "2023-10-14",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1375@shop.example",
+    "id": 1375,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1375",
+    "registration_date": "2023-09-16",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1376@shop.example",
+    "id": 1376,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1376",
+    "registration_date": "2021-08-25",
+    "segment": "basic"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1377@shop.example",
+    "id": 1377,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1377",
+    "registration_date": "2022-08-19",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1378@shop.example",
+    "id": 1378,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1378",
+    "registration_date": "2021-07-08",
+    "segment": "Standard"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1379@shop.example",
+    "id": 1379,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1379",
+    "registration_date": "2021-11-05",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1380@shop.example",
+    "id": 1380,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1380",
+    "registration_date": "2024-04-18",
+    "segment": " BASIC "
+  },
+  {
+    "country": "UK",
+    "email": "buyer1381@shop.example",
+    "id": 1381,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1381",
+    "registration_date": "2023-02-18",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1382@shop.example",
+    "id": 1382,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1382",
+    "registration_date": "2021-04-30",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1383@shop.example",
+    "id": 1383,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1383",
+    "registration_date": "2023-11-30",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1384@shop.example",
+    "id": 1384,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1384",
+    "registration_date": "2024-03-14",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1385@shop.example",
+    "id": 1385,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1385",
+    "registration_date": "2024-03-25",
+    "segment": "standard"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1386@shop.example",
+    "id": 1386,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1386",
+    "registration_date": "2024-07-21",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1387@shop.example",
+    "id": 1387,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1387",
+    "registration_date": "2024-03-30",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1388@shop.example",
+    "id": 1388,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1388",
+    "registration_date": "2021-11-24",
+    "segment": "premium"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1389@shop.example",
+    "id": 1389,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1389",
+    "registration_date": "2021-12-17",
+    "segment": " BASIC "
+  },
+  {
+    "country": "UK",
+    "email": "buyer1390@shop.example",
+    "id": 1390,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1390",
+    "registration_date": "2022-01-18",
+    "segment": "Premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1391@shop.example",
+    "id": 1391,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1391",
+    "registration_date": "2022-10-13",
+    "segment": "basic"
+  },
+  {
+    "country": "us",
+    "email": "buyer1392@shop.example",
+    "id": 1392,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1392",
+    "registration_date": "2022-08-28",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1393@shop.example",
+    "id": 1393,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1393",
+    "registration_date": "2024-08-15",
+    "segment": "Standard"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1394@shop.example",
+    "id": 1394,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1394",
+    "registration_date": "2021-02-10",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1395@shop.example",
+    "id": 1395,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1395",
+    "registration_date": "2021-11-03",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1396@shop.example",
+    "id": 1396,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1396",
+    "registration_date": "2022-08-27",
+    "segment": "Standard"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1397@shop.example",
+    "id": 1397,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1397",
+    "registration_date": "2023-06-01",
+    "segment": "basic"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1398@shop.example",
+    "id": 1398,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1398",
+    "registration_date": "2022-01-25",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1399@shop.example",
+    "id": 1399,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1399",
+    "registration_date": "2023-04-03",
+    "segment": "Standard"
+  },
+  {
+    "country": "can",
+    "email": "buyer1400@shop.example",
+    "id": 1400,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1400",
+    "registration_date": "2022-01-27",
+    "segment": "standard"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1401@shop.example",
+    "id": 1401,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1401",
+    "registration_date": "2021-03-06",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1402@shop.example",
+    "id": 1402,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1402",
+    "registration_date": "2021-09-08",
+    "segment": "Premium"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1403@shop.example",
+    "id": 1403,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1403",
+    "registration_date": "2021-03-10",
+    "segment": "basic"
+  },
+  {
+    "country": "us",
+    "email": "buyer1404@shop.example",
+    "id": 1404,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1404",
+    "registration_date": "2022-12-16",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1405@shop.example",
+    "id": 1405,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1405",
+    "registration_date": "2021-03-24",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1406@shop.example",
+    "id": 1406,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1406",
+    "registration_date": "2021-12-09",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1407@shop.example",
+    "id": 1407,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1407",
+    "registration_date": "2022-09-28",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1408@shop.example",
+    "id": 1408,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1408",
+    "registration_date": "2023-02-10",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1409@shop.example",
+    "id": 1409,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1409",
+    "registration_date": "2021-06-23",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1410@shop.example",
+    "id": 1410,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1410",
+    "registration_date": "2023-02-08",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1411@shop.example",
+    "id": 1411,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1411",
+    "registration_date": "2023-09-23",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1412@shop.example",
+    "id": 1412,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1412",
+    "registration_date": "2021-02-04",
+    "segment": "premium"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1413@shop.example",
+    "id": 1413,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1413",
+    "registration_date": "2022-05-31",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1414@shop.example",
+    "id": 1414,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1414",
+    "registration_date": "2023-08-10",
+    "segment": "Basic"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1415@shop.example",
+    "id": 1415,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1415",
+    "registration_date": "2021-07-28",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1416@shop.example",
+    "id": 1416,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1416",
+    "registration_date": "2024-03-18",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1417@shop.example",
+    "id": 1417,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1417",
+    "registration_date": "2022-12-05",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1418@shop.example",
+    "id": 1418,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1418",
+    "registration_date": "2021-06-26",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1419@shop.example",
+    "id": 1419,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1419",
+    "registration_date": "2021-10-09",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1420@shop.example",
+    "id": 1420,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1420",
+    "registration_date": "2022-05-29",
+    "segment": "Basic"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1421@shop.example",
+    "id": 1421,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1421",
+    "registration_date": "2022-03-29",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1422@shop.example",
+    "id": 1422,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1422",
+    "registration_date": "2022-03-31",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1423@shop.example",
+    "id": 1423,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1423",
+    "registration_date": "2024-07-29",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1424@shop.example",
+    "id": 1424,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1424",
+    "registration_date": "2024-05-07",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1425@shop.example",
+    "id": 1425,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1425",
+    "registration_date": "2024-06-04",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1426@shop.example",
+    "id": 1426,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1426",
+    "registration_date": "2022-12-03",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1427@shop.example",
+    "id": 1427,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1427",
+    "registration_date": "2023-10-06",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1428@shop.example",
+    "id": 1428,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1428",
+    "registration_date": "2021-05-01",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1429@shop.example",
+    "id": 1429,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1429",
+    "registration_date": "2022-06-07",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1430@shop.example",
+    "id": 1430,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1430",
+    "registration_date": "2023-12-03",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1431@shop.example",
+    "id": 1431,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1431",
+    "registration_date": "2024-01-16",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "UK",
+    "email": "buyer1432@shop.example",
+    "id": 1432,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1432",
+    "registration_date": "2022-11-24",
+    "segment": "Premium"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1433@shop.example",
+    "id": 1433,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1433",
+    "registration_date": "2021-10-06",
+    "segment": "standard"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1434@shop.example",
+    "id": 1434,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1434",
+    "registration_date": "2023-06-24",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1435@shop.example",
+    "id": 1435,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1435",
+    "registration_date": "2024-08-18",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1436@shop.example",
+    "id": 1436,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1436",
+    "registration_date": "2024-10-12",
+    "segment": "premium"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1437@shop.example",
+    "id": 1437,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1437",
+    "registration_date": "2023-05-06",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1438@shop.example",
+    "id": 1438,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1438",
+    "registration_date": "2021-05-11",
+    "segment": "Basic"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1439@shop.example",
+    "id": 1439,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1439",
+    "registration_date": "2023-06-03",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1440@shop.example",
+    "id": 1440,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1440",
+    "registration_date": "2021-03-20",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1441@shop.example",
+    "id": 1441,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1441",
+    "registration_date": "2023-07-25",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1442@shop.example",
+    "id": 1442,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1442",
+    "registration_date": "2021-03-04",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1443@shop.example",
+    "id": 1443,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1443",
+    "registration_date": "2024-02-22",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1444@shop.example",
+    "id": 1444,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1444",
+    "registration_date": "2023-01-04",
+    "segment": "Standard"
+  },
+  {
+    "country": "Germany",
+    "email": "buyer1445@shop.example",
+    "id": 1445,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1445",
+    "registration_date": "2024-08-09",
+    "segment": "premium"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1446@shop.example",
+    "id": 1446,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1446",
+    "registration_date": "2021-12-07",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1447@shop.example",
+    "id": 1447,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1447",
+    "registration_date": "2021-12-26",
+    "segment": "Standard"
+  },
+  {
+    "country": "us",
+    "email": "buyer1448@shop.example",
+    "id": 1448,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1448",
+    "registration_date": "2022-07-08",
+    "segment": "basic"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1449@shop.example",
+    "id": 1449,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1449",
+    "registration_date": "2024-06-22",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1450@shop.example",
+    "id": 1450,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1450",
+    "registration_date": "2024-09-02",
+    "segment": "Standard"
+  },
+  {
+    "country": "can",
+    "email": "buyer1451@shop.example",
+    "id": 1451,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1451",
+    "registration_date": "2022-09-04",
+    "segment": "standard"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1452@shop.example",
+    "id": 1452,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1452",
+    "registration_date": "2021-05-06",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1453@shop.example",
+    "id": 1453,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1453",
+    "registration_date": "2021-05-18",
+    "segment": "Standard"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1454@shop.example",
+    "id": 1454,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1454",
+    "registration_date": "2023-10-01",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1455@shop.example",
+    "id": 1455,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1455",
+    "registration_date": "2023-06-01",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1456@shop.example",
+    "id": 1456,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1456",
+    "registration_date": "2024-01-16",
+    "segment": "Basic"
+  },
+  {
+    "country": "can",
+    "email": "buyer1457@shop.example",
+    "id": 1457,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1457",
+    "registration_date": "2024-06-25",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1458@shop.example",
+    "id": 1458,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1458",
+    "registration_date": "2024-05-11",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1459@shop.example",
+    "id": 1459,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1459",
+    "registration_date": "2023-10-30",
+    "segment": "Standard"
+  },
+  {
+    "country": "can",
+    "email": "buyer1460@shop.example",
+    "id": 1460,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1460",
+    "registration_date": "2024-07-05",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1461@shop.example",
+    "id": 1461,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1461",
+    "registration_date": "2023-12-04",
+    "segment": "PREMIUM"
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1462@shop.example",
+    "id": 1462,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1462",
+    "registration_date": "2021-08-15",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1463@shop.example",
+    "id": 1463,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1463",
+    "registration_date": "2022-06-30",
+    "segment": "basic"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1464@shop.example",
+    "id": 1464,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1464",
+    "registration_date": "2021-04-24",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "U.S.",
+    "email": "buyer1465@shop.example",
+    "id": 1465,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1465",
+    "registration_date": "2023-09-05",
+    "segment": "Standard"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1466@shop.example",
+    "id": 1466,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1466",
+    "registration_date": "2023-07-29",
+    "segment": "standard"
+  },
+  {
+    "country": "GB",
+    "email": "buyer1467@shop.example",
+    "id": 1467,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1467",
+    "registration_date": "2021-02-17",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "us",
+    "email": "buyer1468@shop.example",
+    "id": 1468,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1468",
+    "registration_date": "2024-05-06",
+    "segment": "Standard"
+  },
+  {
+    "country": "can",
+    "email": "buyer1469@shop.example",
+    "id": 1469,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1469",
+    "registration_date": "2023-07-22",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1470@shop.example",
+    "id": 1470,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1470",
+    "registration_date": "2021-05-17",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1471@shop.example",
+    "id": 1471,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1471",
+    "registration_date": "2022-01-04",
+    "segment": "Standard"
+  },
+  {
+    "country": "us",
+    "email": "buyer1472@shop.example",
+    "id": 1472,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1472",
+    "registration_date": "2023-05-05",
+    "segment": "basic"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1473@shop.example",
+    "id": 1473,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1473",
+    "registration_date": "2023-07-08",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1474@shop.example",
+    "id": 1474,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1474",
+    "registration_date": "2023-04-12",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1475@shop.example",
+    "id": 1475,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1475",
+    "registration_date": "2023-11-05",
+    "segment": "premium"
+  },
+  {
+    "country": "DE",
+    "email": "buyer1476@shop.example",
+    "id": 1476,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1476",
+    "registration_date": "2022-11-15",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1477@shop.example",
+    "id": 1477,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1477",
+    "registration_date": "2021-12-14",
+    "segment": "Premium"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1478@shop.example",
+    "id": 1478,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1478",
+    "registration_date": "2021-10-18",
+    "segment": "basic"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1479@shop.example",
+    "id": 1479,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1479",
+    "registration_date": "2022-12-23",
+    "segment": " BASIC "
+  },
+  {
+    "country": "Canada",
+    "email": "buyer1480@shop.example",
+    "id": 1480,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1480",
+    "registration_date": "2021-10-27",
+    "segment": "Premium"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1481@shop.example",
+    "id": 1481,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1481",
+    "registration_date": "2024-07-20",
+    "segment": "standard"
+  },
+  {
+    "country": "USA",
+    "email": "buyer1482@shop.example",
+    "id": 1482,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1482",
+    "registration_date": "2021-12-18",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "United States",
+    "email": "buyer1483@shop.example",
+    "id": 1483,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1483",
+    "registration_date": "2021-06-03",
+    "segment": "Premium"
+  },
+  {
+    "country": "can",
+    "email": "buyer1484@shop.example",
+    "id": 1484,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1484",
+    "registration_date": "2021-11-29",
+    "segment": "standard"
+  },
+  {
+    "country": "CA",
+    "email": "buyer1485@shop.example",
+    "id": 1485,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1485",
+    "registration_date": "2021-07-25",
+    "segment": " STANDARD"
+  },
+  {
+    "country": "Deutschland",
+    "email": "buyer1486@shop.example",
+    "id": 1486,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1486",
+    "registration_date": "2024-04-12",
+    "segment": "Basic"
+  },
+  {
+    "country": "United Kingdom",
+    "email": "buyer1487@shop.example",
+    "id": 1487,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1487",
+    "registration_date": "2023-10-25",
+    "segment": "standard"
+  },
+  {
+    "country": "us",
+    "email": "buyer1488@shop.example",
+    "id": 1488,
+    "lifetime_value": 0.0,
+    "name": "Buyer 1488",
+    "registration_date": "2023-11-04",
+    "segment": " STANDARD"
+  },
+  {
+    "country": null,
+    "email": "pending9001@shop.example",
+    "id": 9001,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9001",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "",
+    "id": 9002,
+    "lifetime_value": 0.0,
+    "name": "",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "pending9003@shop.example",
+    "id": 9003,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9003",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "",
+    "id": 9004,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9004",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "pending9005@shop.example",
+    "id": 9005,
+    "lifetime_value": 0.0,
+    "name": "",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "",
+    "id": 9006,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9006",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "pending9007@shop.example",
+    "id": 9007,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9007",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "",
+    "id": 9008,
+    "lifetime_value": 0.0,
+    "name": "",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "pending9009@shop.example",
+    "id": 9009,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9009",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "",
+    "id": 9010,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9010",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "pending9011@shop.example",
+    "id": 9011,
+    "lifetime_value": 0.0,
+    "name": "",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "",
+    "id": 9012,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9012",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "pending9013@shop.example",
+    "id": 9013,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9013",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "",
+    "id": 9014,
+    "lifetime_value": 0.0,
+    "name": "",
+    "registration_date": "",
+    "segment": ""
+  },
+  {
+    "country": null,
+    "email": "pending9015@shop.example",
+    "id": 9015,
+    "lifetime_value": 0.0,
+    "name": "Provisional 9015",
+    "registration_date": "",
+    "segment": ""
+  }
+]

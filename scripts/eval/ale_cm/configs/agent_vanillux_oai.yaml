@@ -1,0 +1,15 @@
+# ale_run agent config: the vanillux_oai harness (scripts/eval/ale_cm/vanillux_oai/, installed into the
+# ALE checkout by setup_ale.sh) against the local vLLM server. eval_ale_cm.sh fills the __X__ fields.
+harness: ale_run.agents.vanillux_oai.deployer.VanilluxOaiDeployer
+executor: local
+model: __SERVED_NAME__
+config:
+  model: __SERVED_NAME__                    # must match vLLM --served-model-name
+  server_url: __SERVER_URL__
+  max_turns: __MAX_TURNS__                  # training --max_steps (bash calls per episode)
+  max_tokens: __MAX_TOKENS__                # training per-turn max tokens
+  temperature: __TEMPERATURE__              # k-sample eval decoding (training used 1.0)
+  top_p: __TOP_P__
+  enable_thinking: __ENABLE_THINKING__      # trained with interleaved reasoning
+  max_format_errors: 64
+  execute_all_tool_calls: __EXECUTE_ALL_TOOL_CALLS__   # false = training contract (first bash call per turn)

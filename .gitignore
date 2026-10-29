@@ -1,0 +1,29 @@
+### Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+*.log
+
+### Local model dirs
+models/
+
+### Secrets / local env
+.env
+.harbor.env
+*.harbor.env
+
+### Local tool state
+.claude/*
+*.fuse_hidden*
+
+### Training / evaluation outputs
+runs/
+jobs/*
+results/
+output/
+training/open-instruct/reports/
+training/open-instruct/state/
+examples/data/*/task-data.lock

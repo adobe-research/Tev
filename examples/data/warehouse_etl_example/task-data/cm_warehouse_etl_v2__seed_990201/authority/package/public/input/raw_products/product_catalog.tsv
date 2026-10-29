@@ -1,0 +1,53 @@
+product_id	product_name	category	subcategory	base_price	cost_price	supplier	weight_kg	is_active	created_at
+3001	Catalog Item 3001		Reference	12.39	9.24	Blue_Mesa	1.0	0	2024-01-01
+3002	Catalog Item 3002	Clothing	Outerwear	17.27	11.96	CEDAR WORKS	1.0	TRUE	2024-01-01
+3003	Catalog Item 3003	Electronics	Accessories	25.02	13.07	HarborWholesale	1.0	yes	2024-01-01
+3004	Catalog Item 3004	Home	Kitchen	33.88	20.45	Northstar_Supply	1.0	Y	2024-01-01
+3005	Catalog Item 3005	Sports	Outdoor	40.68	20.5	BLUE MESA	1.0	1	2024-01-01
+3006	Catalog Item 3006	Books	Reference	39.49	23.94	Cedar-Works	1.0	TRUE	2024-01-01
+3007	Catalog Item 3007	Clothing	Outerwear	37.81	26.67	Harbor_Wholesale	1.0	yes	2024-01-01
+3008	Catalog Item 3008	Electronics	Accessories	54.97	32.97	NORTHSTAR SUPPLY	1.0	n	2024-01-01
+3009	Catalog Item 3009	Home	Kitchen	57.25	40.38	BlueMesa	1.0	1	2024-01-01
+3010	Catalog Item 3010	Sports	Outdoor	54.35	37.92	CedarWorks	1.0	TRUE	2024-01-01
+3011	Catalog Item 3011	Books	Reference	70.75	34.72	HARBOR WHOLESALE	1.0	yes	2024-01-01
+3012	Catalog Item 3012		Outerwear	63.95	41.2	NorthstarSupply	1.0	Y	2024-01-01
+3013	Catalog Item 3013	Electronics	Accessories	67.58	39.11	Blue_Mesa	1.0	1	2024-01-01
+3014	Catalog Item 3014	Home	Kitchen	86.34	54.56	CEDAR WORKS	1.0	TRUE	2024-01-01
+3015	Catalog Item 3015	Sports	Outdoor	80.5	51.59	HarborWholesale	1.0	No	2024-01-01
+3016	Catalog Item 3016	Books	Reference	86.6	50.07	Northstar_Supply	1.0	Y	2024-01-01
+3017	Catalog Item 3017	Clothing	Outerwear	102.52	50.6	BLUE MESA	1.0	1	2024-01-01
+3018	Catalog Item 3018	Electronics	Accessories	106.93	48.21	Cedar-Works	1.0	TRUE	2024-01-01
+3019	Catalog Item 3019	Home	Kitchen	111.36	58.19	Harbor_Wholesale	1.0	yes	2024-01-01
+3020	Catalog Item 3020	Sports	Outdoor	107.61	49.59	NORTHSTAR SUPPLY	1.0	Y	2024-01-01
+3021	Catalog Item 3021	Books	Reference	108.63	55.97	BlueMesa	1.0	1	2024-01-01
+3022	Catalog Item 3022	Clothing	Outerwear	117.06	90.1	CedarWorks	1.0	FALSE	2024-01-01
+3023	Catalog Item 3023		Accessories	118.78	88.67	HARBOR WHOLESALE	1.0	yes	2024-01-01
+3024	Catalog Item 3024	Home	Kitchen	132.25	92.61	NorthstarSupply	1.0	Y	2024-01-01
+3025	Catalog Item 3025	Sports	Outdoor	135.35	86.94	Blue_Mesa	1.0	1	2024-01-01
+3026	Catalog Item 3026	Books	Reference	131.78	97.15	CEDAR WORKS	1.0	TRUE	2024-01-01
+3027	Catalog Item 3027	Clothing	Outerwear	145.18	66.23	HarborWholesale	1.0	yes	2024-01-01
+3028	Catalog Item 3028	Electronics	Accessories	155.15	77.12	Northstar_Supply	1.0	Y	2024-01-01
+3029	Catalog Item 3029	Home	Kitchen	145.69	65.62	BLUE MESA	1.0	0	2024-01-01
+3030	Catalog Item 3030	Sports	Outdoor	155.21	99.44	Cedar-Works	1.0	TRUE	2024-01-01
+3031	Catalog Item 3031	Books	Reference	159.0	98.52	Harbor_Wholesale	1.0	yes	2024-01-01
+3032	Catalog Item 3032	Clothing	Outerwear	168.71	100.87	NORTHSTAR SUPPLY	1.0	Y	2024-01-01
+3033	Catalog Item 3033	Electronics	Accessories	173.26	113.24	BlueMesa	1.0	1	2024-01-01
+3034	Catalog Item 3034		Kitchen	184.52	106.07	CedarWorks	1.0	TRUE	2024-01-01
+3035	Catalog Item 3035	Sports	Outdoor	189.09	109.83	HARBOR WHOLESALE	1.0	yes	2024-01-01
+3036	Catalog Item 3036	Books	Reference	188.89	106.78	NorthstarSupply	1.0	n	2024-01-01
+3037	Catalog Item 3037	Clothing	Outerwear	198.88	94.84	Blue_Mesa	1.0	1	2024-01-01
+3038	Catalog Item 3038	Electronics	Accessories	203.26	132.28	CEDAR WORKS	1.0	TRUE	2024-01-01
+3039	Catalog Item 3039	Home	Kitchen	194.52	113.78	HarborWholesale	1.0	yes	2024-01-01
+3040	Catalog Item 3040	Sports	Outdoor	209.49	153.14	Northstar_Supply	1.0	Y	2024-01-01
+3041	Catalog Item 3041	Books	Reference	210.61	130.81	BLUE MESA	1.0	1	2024-01-01
+3042	Catalog Item 3042	Clothing	Outerwear	222.41	169.16	Cedar-Works	1.0	TRUE	2024-01-01
+3043	Catalog Item 3043	Electronics	Accessories	219.38	112.88	Harbor_Wholesale	1.0	No	2024-01-01
+3044	Catalog Item 3044	Home	Kitchen	220.63	125.87	NORTHSTAR SUPPLY	1.0	Y	2024-01-01
+3045	Catalog Item 3045		Outdoor	220.06	162.8	BlueMesa	1.0	1	2024-01-01
+3046	Catalog Item 3046	Books	Reference	223.5	168.72	CedarWorks	1.0	TRUE	2024-01-01
+3047	Catalog Item 3047	Clothing	Outerwear	243.18	130.99	HARBOR WHOLESALE	1.0	yes	2024-01-01
+3048	Catalog Item 3048	Electronics	Accessories	240.34	142.49	NorthstarSupply	1.0	Y	2024-01-01
+3049	Catalog Item 3049	Home	Kitchen	255.33	165.5	Blue_Mesa	1.0	1	2024-01-01
+3050	Catalog Item 3050	Sports	Outdoor	244.84	111.97	CEDAR WORKS	1.0	FALSE	2024-01-01
+3051	Catalog Item 3051	Books	Reference	253.48	125.74	HarborWholesale	1.0	yes	2024-01-01
+3052	Catalog Item 3052	Clothing	Outerwear	250.74	188.41	Northstar_Supply	1.0	Y	2024-01-01

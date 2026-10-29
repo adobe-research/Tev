@@ -1,0 +1,68 @@
+{
+  "data_quality_report": {
+    "required_sections": {
+      "extraction": [
+        "raw_transaction_files",
+        "raw_transaction_rows",
+        "raw_customer_records",
+        "raw_product_records"
+      ],
+      "load": [
+        "fact_transactions_rows",
+        "dim_customers_rows",
+        "dim_products_rows",
+        "dim_dates_rows",
+        "referential_integrity_violations_remaining"
+      ],
+      "quality_checks": [
+        "no_duplicate_transaction_ids",
+        "no_null_quantities",
+        "no_null_unit_prices",
+        "total_amount_formula_correct",
+        "all_foreign_keys_resolve",
+        "all_segments_valid",
+        "all_country_codes_iso2"
+      ],
+      "transformations": [
+        "duplicates_removed",
+        "null_rows_dropped",
+        "null_customer_ids_mapped",
+        "timestamps_standardized",
+        "schema_drift_columns_filled",
+        "country_codes_standardized",
+        "supplier_names_standardized",
+        "boolean_fields_normalized",
+        "empty_categories_labeled"
+      ]
+    }
+  },
+  "required_files": [
+    "warehouse.db",
+    "data_quality_report.json",
+    "warehouse_summary.json"
+  ],
+  "warehouse_summary": {
+    "required_sections": {
+      "dim_customers": [
+        "row_count",
+        "segment_distribution",
+        "country_distribution"
+      ],
+      "dim_products": [
+        "row_count",
+        "category_distribution",
+        "active_products"
+      ],
+      "fact_table": [
+        "row_count",
+        "unique_transactions",
+        "unique_customers",
+        "unique_products",
+        "total_revenue",
+        "avg_transaction_value",
+        "date_range",
+        "channel_distribution"
+      ]
+    }
+  }
+}

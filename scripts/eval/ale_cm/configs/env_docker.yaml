@@ -1,0 +1,13 @@
+# ale_run environment: ALE's Linux sandbox image on the local Docker provider
+# (agentslastexam/ale-ubuntu22-docker:latest; pulled from Docker Hub if absent).
+# Task data (input/software/reference) is staged from a host directory; __TASK_DATA__ is filled in by
+# eval_ale_cm.sh. output_path: local copies each run's output/ back next to its run.json.
+snapshots:
+  cpu-free-ubuntu:
+    provider: docker
+    image: ale-ubuntu22-docker
+    docker:
+      shm_size: 2g
+      resolution: [1024, 768]
+task_data_source: local:__TASK_DATA__
+output_path: local

@@ -1,0 +1,14 @@
+# ale_run experiment for ONE rollout of the computing_math eval. eval_ale_cm.sh renders one copy per
+# rollout (r1..rK), each with its own output root. ale_run resolves relative paths against this yaml's
+# directory, so every path is filled in as an absolute path.
+name: __NAME__
+secret_file: __SECRET_FILE__
+agents:
+  - __AGENT_YAML__
+environment: __ENV_YAML__
+tasks: __TASKS__
+output:
+  root: __ROOT__
+concurrency: __CONCURRENCY__        # tasks in flight per rollout (sandboxes + LLM load)
+wall_time_s: __WALL_TIME_S__        # per-task agent budget; then stopped with status=timeout
+cleanup_mode: delete

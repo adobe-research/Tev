@@ -1,0 +1,11 @@
+{
+  "schema": "v72-dense-config.v2",
+  "grade_mode": "live",
+  "family_revision_id": "cm.warehouse-etl.v2",
+  "authority_subdir": "authority/package",
+  "klass": "A",
+  "deps": [],
+  "needs_reference": false,
+  "needs_execution": false,
+  "observability": "rich"
+}

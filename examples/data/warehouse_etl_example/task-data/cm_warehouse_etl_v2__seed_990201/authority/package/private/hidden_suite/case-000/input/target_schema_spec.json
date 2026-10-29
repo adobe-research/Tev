@@ -1,0 +1,94 @@
+{
+  "database_format": "sqlite",
+  "date_dimension": {
+    "end": "2025-06-29",
+    "start": "2025-01-01"
+  },
+  "logical_model_name": "retail_analytics",
+  "notes": [
+    "Use customer_id 0 for one synthetic Unknown Customer row.",
+    "Use YYYYMMDD integer date keys.",
+    "Label empty product categories Uncategorized."
+  ],
+  "preserve_customer_ids": [
+    9001,
+    9002,
+    9003,
+    9004,
+    9005,
+    9006,
+    9007,
+    9008,
+    9009,
+    9010,
+    9011,
+    9012,
+    9013,
+    9014,
+    9015
+  ],
+  "tables": {
+    "dim_customers": [
+      "country_code",
+      "customer_id",
+      "customer_key",
+      "email",
+      "name",
+      "registration_date",
+      "segment"
+    ],
+    "dim_dates": [
+      "date_key",
+      "day",
+      "day_of_week",
+      "full_date",
+      "is_weekend",
+      "month",
+      "quarter",
+      "year"
+    ],
+    "dim_products": [
+      "base_price",
+      "category",
+      "cost_price",
+      "is_active",
+      "product_id",
+      "product_key",
+      "product_name",
+      "subcategory",
+      "supplier"
+    ],
+    "fact_transactions": [
+      "channel",
+      "customer_key",
+      "date_key",
+      "discount_pct",
+      "product_key",
+      "quantity",
+      "total_amount",
+      "transaction_id",
+      "unit_price"
+    ]
+  },
+  "valid_customer_values": {
+    "country_codes": [
+      "CA",
+      "DE",
+      "GB",
+      "US",
+      "XX"
+    ],
+    "segments": [
+      "basic",
+      "premium",
+      "standard",
+      "unknown"
+    ]
+  },
+  "valid_supplier_names": [
+    "Blue Mesa",
+    "Cedar Works",
+    "Harbor Wholesale",
+    "Northstar Supply"
+  ]
+}

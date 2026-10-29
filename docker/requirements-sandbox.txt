@@ -1,0 +1,10 @@
+# Sandbox image Python deps — the union of the agent-permitted libraries over all Tev-Gym task families,
+# pinned to the versions of the image used in training (python 3.13).
+# Relax a pin only if a build can't resolve it against the configured index.
+pydantic==2.13.4
+numpy==2.5.2
+pyyaml==6.0.3
+safetensors==0.8.0
+pandas==3.0.5
+cryptography==50.0.0
+pytest==9.1.1
